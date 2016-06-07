@@ -1,0 +1,65 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	background-color: rgb(39,40,34);
+}
+
+.all {
+	border: 1px rgb(102,217,177) solid;
+	width: 431px;
+	height: 540px;
+	position: absolute;
+	top: 52px;
+    left: 433px;
+}
+
+.title {
+    color: rgb(102,217,177);
+    font-style: bold;
+    position: absolute;
+	top: 11px;
+	left: 12px;
+}
+
+.chatRecord {
+	border: 1px rgb(102,217,177) solid;
+	width: 280px;
+	height: 334px;
+	position: absolute;
+	top: 45px;
+	left: 12px;
+}
+
+.chatContent {
+	border: 1px rgb(102,217,177) solid;
+	/* width: 280px;
+	height: 100px; */
+	position: absolute;
+	top: 414px;
+	left: 12px;
+	/* font-size: 14px; */
+	/* line-height: 100px; */
+}
+
+.btn1 {
+	width: 98px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 14px;
+	position: absolute;
+	top: 428px;
+	left: 311px;
+}
+
+.btn2 {
+	width: 98px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 14px;
+	position: absolute;
+	top: 475px;
+	left: 311px;
+}
